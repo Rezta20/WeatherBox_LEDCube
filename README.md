@@ -5,6 +5,7 @@
 - Arduino ESP32
 - Solder 焊錫
 
+</br>
 
 ### 設計概念 Design Concept
 針對現代租屋族，特別為無窗戶的居住環境打造，</br>
@@ -15,8 +16,7 @@
 For modern renters, we have specially crafted living spaces without windows, offering an innovative design concept that allows residents to experience real-time changes in outdoor weather. </br>
 This design aims to fulfill the desire for a connection to nature while prioritizing the quality of living conditions.
 
-</br>
-</br>
+
 </br>
 
 
