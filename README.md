@@ -4,6 +4,7 @@
 - 3D Print 3D列印
 - Arduino ESP32
 - Solder 焊錫
+- Open weather API  
 
 </br>
 
