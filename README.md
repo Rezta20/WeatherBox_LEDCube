@@ -33,19 +33,15 @@ This design aims to fulfill the desire for a connection to nature while prioriti
 
 天氣變化的項目主要有四大類： </br>
  雲 、雨 、風、溫度 </br>
-</br>
 依據變化量又區分為：</br>
 無、微、多</br>
-
 共有 **12種** 變化模式 </br>
 
 
 The items of weather variations can be broadly categorized into four main types:</br>
 Clouds, Rain, Wind, Temperature</br>
-</br>
 They are further differentiated based on the degree of change:</br>
 None, Slight, Significant</br>
-</br>
 There are a total of 12 change patterns.</br>
 
 | 項目/變化|    無    |    微    |    多    |
