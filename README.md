@@ -21,11 +21,9 @@ This design aims to fulfill the desire for a connection to nature while prioriti
 
 
 ### 任務流程 Task Flow
+![Weather Flow drawio (2)](https://github.com/Rezta20/WeatherBox_LEDCube/assets/63142258/67197b48-c177-4fa8-8124-1f8bb9766fd7)
 
-</br>
-</br>
-</br>
-</br>
+
 </br>
 
 
