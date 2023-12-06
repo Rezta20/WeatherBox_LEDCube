@@ -85,6 +85,10 @@ There are a total of 12 change patterns.</br>
 <img src="https://github.com/Rezta20/WeatherBox_LEDCube/assets/63142258/dce2fe84-02d7-4ac9-8a71-64e31d899462" alt="熱" width="400">
 
 
+### 縮時影片 Video
+
+https://github.com/Rezta20/WeatherBox_LEDCube/assets/63142258/505b584c-3333-4b66-bd0c-c4e2d83f9d3b
+
 
 ### 備注 Remarks
 Referenced two websites, 
